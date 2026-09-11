@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "description": "20 synthetic test complaints for NagrikAI triage engine",
+    "groups": {
+      "simple_clear": 5,
+      "missing_info": 5,
+      "multi_issue": 3,
+      "sarcastic_vague": 3,
+      "repeat_escalation": 2,
+      "edge_case": 2
+    }
+  },
+  "complaints": [
+    {
+      "id": 1,
+      "tag": "simple_clear",
+      "text": "Water pipe burst outside 14, Park Avenue, Sector 3. Water gushing out since morning and the road is flooded. Please send someone urgently."
+    },
+    {
+      "id": 2,
+      "tag": "simple_clear",
+      "text": "The streetlight at the corner of 5th Main and 3rd Cross in Indiranagar is not working. It has been dark for two days."
+    },
+    {
+      "id": 3,
+      "tag": "simple_clear",
+      "text": "There is a big pothole on the outer ring road service lane near Marathahalli bridge. Two bikers fell today."
+    },
+    {
+      "id": 4,
+      "tag": "simple_clear",
+      "text": "Garbage bin opposite Shankar Mutt, Basavanagudi hasn't been emptied in 3 days. Flies and stench everywhere."
+    },
+    {
+      "id": 5,
+      "tag": "simple_clear",
+      "text": "Someone is building an extra floor without permission on plot 42, sector 6. Construction going on at night too."
+    },
+
+    {
+      "id": 6,
+      "tag": "missing_info",
+      "text": "no water supply for three days"
+    },
+    {
+      "id": 7,
+      "tag": "missing_info",
+      "text": "Power cut since yesterday evening. Very frustrating in this heat."
+    },
+    {
+      "id": 8,
+      "tag": "missing_info",
+      "text": "The sewage is overflowing and it's unbearable. Someone please help."
+    },
+    {
+      "id": 9,
+      "tag": "missing_info",
+      "text": "There's a street light issue in my area."
+    },
+    {
+      "id": 10,
+      "tag": "missing_info",
+      "text": "Stray dogs are creating a nuisance. Kids are scared to go out."
+    },
+
+    {
+      "id": 11,
+      "tag": "multi_issue",
+      "text": "Sector 15 is a total mess. The main road has huge potholes, garbage hasn't been picked up all week, and the street lights don't work after dusk. Someone fell into a puddle last night because it was dark."
+    },
+    {
+      "id": 12,
+      "tag": "multi_issue",
+      "text": "Near the railway station, there is water logging from an open drainage line, plus loud music from a nearby bar till 3am every night. We can't sleep and there are mosquitoes everywhere. An old man slipped and got hurt yesterday."
+    },
+    {
+      "id": 13,
+      "tag": "multi_issue",
+      "text": "Ward 8 community park: the lights are broken, benches are broken, the water tap for plants is leaking and flooding the walkway, and local boys play extremely loud speakers every evening troubling senior citizens."
+    },
+
+    {
+      "id": 14,
+      "tag": "sarcastic_vague",
+      "text": "Oh wow, another morning commute where I get to practice my off-roading skills on the 'road' outside my house. Excellent work, keep it up 👍"
+    },
+    {
+      "id": 15,
+      "tag": "sarcastic_vague",
+      "text": "Just wanted to say thank you for the free 24/7 private disco next door with the loud DJ. We didn't need to sleep anyway. The kids love doing homework to EDM beats at 2am."
+    },
+    {
+      "id": 16,
+      "tag": "sarcastic_vague",
+      "text": "Is the garbage van on a holiday or is the bin a permanent decorative feature now? My apartment entrance looks beautiful with the mountain of trash."
+    },
+
+    {
+      "id": 17,
+      "tag": "repeat_escalation",
+      "text": "This is the THIRD TIME I am complaining. The electric pole outside plot 7, MG Road is sparking and black smoke was coming yesterday. Your team came once, said it's fixed, and it started sparking again today. Someone is going to get electrocuted. DO SOMETHING NOW."
+    },
+    {
+      "id": 18,
+      "tag": "repeat_escalation",
+      "text": "I have already registered two complaints about the drainage overflow behind 22, Nehru Nagar. It's been over a week and nobody has come. My children are falling sick. If nobody comes today I will go to the media and the corporator's office."
+    },
+
+    {
+      "id": 19,
+      "tag": "edge_case",
+      "text": "Buy cheap watches at 70% off! Limited time offer, visit our website watchdeal.example"
+    },
+    {
+      "id": 20,
+      "tag": "edge_case",
+      "text": "asdf qwerty 12345"
+    }
+  ]
+}
